@@ -3,15 +3,15 @@ title: Terms of Use
 permalink: /terms/
 ---
 
-# Evidence Log Terms of Use
+# RenterShield Terms of Use
 
-_Last updated: 25 October 2026_
+_Last updated: 31 October 2026_
 
-These terms apply to your use of the Evidence Log app ("the app"), provided by Faton Pantina ("we"). They add to Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which also applies. If the two conflict, Apple's agreement takes priority. By using the app you agree to these terms.
+These terms apply to your use of the RenterShield app ("the app"), provided by Faton Pantina ("we"). They add to Apple's [Licensed Application End User License Agreement](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/), which also applies. If the two conflict, Apple's agreement takes priority. By using the app you agree to these terms.
 
 ## 1. What the app does
 
-Evidence Log helps you keep your own record of problems with a rented home: notes, photos, communications, costs, visits and documents. It can produce reports and letter templates from that record.
+RenterShield helps you keep your own record of problems with a rented home: notes, photos, communications, costs, visits and documents. It can produce reports and letter templates from that record.
 
 ## 2. Not legal advice
 
@@ -27,10 +27,10 @@ Your records are stored only on your iPhone and are not backed up by us, iCloud 
 
 ## 5. Purchases
 
-Evidence Log Pro is available as a one-off purchase or a yearly subscription through Apple's App Store. Prices are shown in the app before you buy.
+RenterShield Pro is available as a one-off lifetime purchase, or as a monthly or yearly subscription, through Apple's App Store. Prices are shown in the app before you buy.
 
 - Payment, renewal, cancellation and refunds are handled by Apple under the App Store terms.
-- A yearly subscription renews automatically unless you cancel it at least 24 hours before the end of the current period, in **Settings → Apple ID → Subscriptions**.
+- Monthly and yearly subscriptions renew automatically unless you cancel at least 24 hours before the end of the current period, in **Settings → Apple ID → Subscriptions**.
 - You can restore previous purchases from the app's Settings.
 
 ## 6. Acceptable use

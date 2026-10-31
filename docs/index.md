@@ -1,11 +1,11 @@
 ---
-title: Evidence Log
+title: RenterShield
 permalink: /
 ---
 
-# Evidence Log
+# RenterShield: Deposit & Repairs
 
-Evidence Log helps tenants keep a dated, fingerprinted record of damp, mould and repair problems, entirely on their own iPhone.
+RenterShield helps tenants keep a dated, fingerprinted record of damp, mould and repair problems, entirely on their own iPhone.
 
 - [Privacy Policy](privacy/)
 - [Terms of Use](terms/)
