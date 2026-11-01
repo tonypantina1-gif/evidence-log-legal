@@ -9,3 +9,4 @@ TenantLog helps tenants keep a dated, fingerprinted record of damp, mould and re
 
 - [Privacy Policy](privacy/)
 - [Terms of Use](terms/)
+- [Support](support/)
