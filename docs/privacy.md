@@ -3,13 +3,13 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-# RenterShield Privacy Policy
+# TenantLog Privacy Policy
 
-_Last updated: 31 October 2026_
+_Last updated: 1 November 2026_
 
-**In short: RenterShield does not collect any data about you.** There is no account to create, no server holding your records, no analytics and no tracking. Everything you record stays on your iPhone unless you choose to share it.
+**In short: TenantLog does not collect any data about you.** There is no account to create, no server holding your records, no analytics and no tracking. Everything you record stays on your iPhone unless you choose to share it.
 
-This policy explains what that means in practice. "We" means Faton Pantina, the developer of RenterShield.
+This policy explains what that means in practice. "We" means Faton Pantina, the developer of TenantLog.
 
 ## 1. What we collect
 
@@ -17,7 +17,7 @@ Nothing. We do not collect, receive, store, sell or share any personal data, usa
 
 ## 2. Where your information is kept
 
-Everything you add to RenterShield is stored only on your iPhone:
+Everything you add to TenantLog is stored only on your iPhone:
 
 - properties, issues, notes, timelines and communication logs
 - photos, screenshots, scanned documents and receipts
@@ -47,7 +47,7 @@ A report, letter or file leaves your iPhone only when you choose to share it, fo
 
 ## 6. Purchases
 
-RenterShield Pro is sold through Apple's App Store. Apple processes the payment. We do not receive your name, payment details or Apple ID, only confirmation from Apple, on your device, that a purchase is active.
+TenantLog Pro is sold through Apple's App Store. Apple processes the payment. We do not receive your name, payment details or Apple ID, only confirmation from Apple, on your device, that a purchase is active.
 
 ## 7. Links to other websites
 
@@ -59,7 +59,7 @@ Because we do not collect or hold any of your personal data, there is nothing fo
 
 ## 9. Children
 
-RenterShield is not directed at children and collects no data from anyone.
+TenantLog is not directed at children and collects no data from anyone.
 
 ## 10. Changes to this policy
 

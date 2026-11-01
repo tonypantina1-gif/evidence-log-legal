@@ -1,11 +1,11 @@
 ---
-title: RenterShield
+title: TenantLog
 permalink: /
 ---
 
-# RenterShield: Deposit & Repairs
+# TenantLog: Repair & Damp Proof
 
-RenterShield helps tenants keep a dated, fingerprinted record of damp, mould and repair problems, entirely on their own iPhone.
+TenantLog helps tenants keep a dated, fingerprinted record of damp, mould and repair problems, entirely on their own iPhone.
 
 - [Privacy Policy](privacy/)
 - [Terms of Use](terms/)

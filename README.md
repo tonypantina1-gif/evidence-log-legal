@@ -1,6 +1,6 @@
-# RenterShield: legal pages
+# TenantLog: legal pages
 
-Privacy Policy and Terms of Use for the RenterShield iPhone app, served by GitHub Pages from `docs/`.
+Privacy Policy and Terms of Use for the TenantLog iPhone app, served by GitHub Pages from `docs/`.
 
 - Privacy Policy: https://tonypantina1-gif.github.io/evidence-log-legal/privacy/
 - Terms of Use: https://tonypantina1-gif.github.io/evidence-log-legal/terms/
