@@ -3,7 +3,7 @@ title: TenantLog
 permalink: /
 ---
 
-# TenantLog: Repair & Damp Proof
+# TenantLog: Rental Evidence
 
 TenantLog helps tenants keep a dated, fingerprinted record of damp, mould and repair problems, entirely on their own iPhone.
 

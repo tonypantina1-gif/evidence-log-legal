@@ -5,9 +5,9 @@ permalink: /privacy/
 
 # TenantLog Privacy Policy
 
-_Last updated: 1 November 2026_
+_Last updated: 6 November 2026_
 
-**In short: TenantLog does not collect any data about you.** There is no account to create, no server holding your records, no analytics and no tracking. Everything you record stays on your iPhone unless you choose to share it.
+**In short: TenantLog does not collect any data about you.** There is no account to create, no server of ours holding your records, no analytics and no tracking. Everything you record stays on your iPhone, unless you choose to share it or to turn on iCloud Backup, which keeps an encrypted copy in your own iCloud account that we cannot see.
 
 This policy explains what that means in practice. "We" means Faton Pantina, the developer of TenantLog.
 
@@ -17,7 +17,7 @@ Nothing. We do not collect, receive, store, sell or share any personal data, usa
 
 ## 2. Where your information is kept
 
-Everything you add to TenantLog is stored only on your iPhone:
+Everything you add to TenantLog is stored on your iPhone:
 
 - properties, issues, notes, timelines and communication logs
 - photos, screenshots, scanned documents and receipts
@@ -25,7 +25,13 @@ Everything you add to TenantLog is stored only on your iPhone:
 - rent payments, expenses, contractor visits and move-in/move-out inspections
 - the SHA-256 fingerprints that show whether a file has changed
 
-These files are protected by iOS encryption whenever your iPhone is locked, and they are **excluded from iCloud and computer backups**. The app does not sync to iCloud or any other cloud service. As a result, if you delete the app or lose your iPhone, your records cannot be recovered by us or anyone else. We recommend exporting a report regularly and keeping it somewhere safe.
+These files are protected by iOS encryption whenever your iPhone is locked, and they are excluded from ordinary iCloud and computer backups of your iPhone.
+
+### Optional iCloud Backup
+
+iCloud Backup is **off unless you turn it on** (in onboarding or Settings). When it is on, your records and evidence photos are copied to the private database of **your own iCloud account**, using Apple's CloudKit, so you can restore them on a new iPhone. Sensitive fields are stored with iCloud encryption. This copy belongs to your Apple ID: we have no access to it and never receive it. Apple's own privacy policy applies to iCloud. The files in the tenancy vault (scanned leases, certificates and other documents) are never uploaded. Turning iCloud Backup off removes the copy from iCloud.
+
+If iCloud Backup is off and you delete the app or lose your iPhone, your records cannot be recovered by us or anyone else. Whether or not you use iCloud Backup, we recommend exporting a report regularly and keeping it somewhere safe.
 
 ## 3. The Home Screen widget
 
@@ -39,6 +45,8 @@ These run on your iPhone; nothing is sent to us or to anyone else:
 - **Photo library:** the app sees only the photos you choose to import.
 - **Document scanner and text recognition:** scanning documents and reading the amount, shop and date from a receipt are done by iOS on your device.
 - **Face ID or Touch ID:** handled entirely by iOS. The app never receives your face or fingerprint data; it only learns whether you were recognised.
+- **Weather (optional, off unless you turn it on):** when you take a photo, the app can record the weather at the time. To do this, iOS sends your approximate location (to about 1 km) to Apple's Weather service, which returns the conditions. Precise location is never used, and we never receive your location.
+- **Augmented reality measuring:** the camera and motion sensors are used on your iPhone to measure an area on a wall. Nothing is sent anywhere.
 - **Notifications:** reminders (for example, to follow up with your landlord or about a certificate expiring) are created and delivered on your iPhone. There is no push notification server.
 
 ## 5. Sharing and exporting
@@ -51,11 +59,11 @@ TenantLog Pro is sold through Apple's App Store. Apple processes the payment. We
 
 ## 7. Links to other websites
 
-The app contains links to external websites, such as Shelter, Citizens Advice, GOV.UK, the tenancy deposit schemes and the EPC registers. They open in your web browser. We don't control those sites, and their own privacy policies apply.
+The app contains links to external websites, such as tenant advice services and government sites for the country you choose (for example Shelter, Citizens Advice and GOV.UK in the UK, or USA.gov in the United States), the tenancy deposit schemes and the EPC registers. They open in your web browser. We don't control those sites, and their own privacy policies apply.
 
 ## 8. Your rights
 
-Because we do not collect or hold any of your personal data, there is nothing for us to access, correct, export or delete on your behalf. You stay in full control: you can export your records as a report at any time, and you can delete everything from **Settings → Delete all data**, or by deleting the app.
+Because we do not collect or hold any of your personal data, there is nothing for us to access, correct, export or delete on your behalf. You stay in full control: you can export your records as a report at any time, and you can delete everything from **Settings → Delete all data**, or by deleting the app. If you use iCloud Backup, turning it off removes the copy in your iCloud.
 
 ## 9. Children
 
